@@ -17,5 +17,5 @@
 </ul>
 <h2>How to run the game</h2>
 On the top corner you will find an option to clone this repository.Click the option and copy the https link.Once in your terminal type in "git clone copied_link".(This assumes that you have installed git).If not https://git-scm.com/download/linux..
-Once you have cloned our repository you will find a folder named "Velocity_Raptor".Type in "cd Velocity_Raptor" in your terminal.Then run the game using **./run.sh**
+Once you have cloned our repository you will find a folder named "Velocity_Raptor".Type in "cd Velocity_Raptor" in your terminal.Then run the game using "./run.sh"
 <h2>Happy Gaming!:smiley:</h2>
