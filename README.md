@@ -1,4 +1,5 @@
 #Velocity Raptor
+<br>
 **About the game:**
 <span>This is a game developed purely in bash without using any external libraries.This was</span>
 <h1>Rule(Aim) of the game:</h1>
